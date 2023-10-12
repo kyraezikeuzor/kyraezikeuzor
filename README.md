@@ -5,4 +5,4 @@
 
 🚀 Focus: building web apps.
 
-📚 Interested in: web, and medicine.
+📚 Interested in: web and medicine.
