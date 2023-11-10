@@ -1,15 +1,15 @@
 # Hi! I'm Kyra, a student and developer.!
 
 ## About me
-🚀 Focus: building web apps.
+🚀 Focus: building web apps. <br/>
 📚 Interested in: web and medicine.
 
 <p>
-  <a href="https://www.linkedin.com/in/chetachi/" rel="nofollow">
+  <a href="[https://www.linkedin.com/in/chetachi/](https://www.linkedin.com/in/kyraezikeuzor/)" rel="nofollow">
     Linkedin
   </a> 
   &nbsp;
-   <a href="https://twitter.com/chetachiiii" rel="nofollow">
+   <a href="[https://twitter.com/chetachiiii](https://twitter.com/kyraoez)" rel="nofollow">
       Twitter
   </a>
 </p>
