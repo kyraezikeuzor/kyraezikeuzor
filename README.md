@@ -1,9 +1,5 @@
 # Hey! I'm Kyra, a student and developer!
 
-## About me
-- 🚀 Focus: building web apps. <br/>
-- 📚 Interested in: web and medicine.
-
 <p>
   <a href="[https://www.linkedin.com/in/chetachi/](https://www.linkedin.com/in/kyraezikeuzor/)" rel="nofollow">
     Linkedin
@@ -14,7 +10,9 @@
   </a>
 </p>
 
-
+## About me
+- 🚀 Focus is on building web apps.
+- 📚 Interested in web and medicine.
 - 🌱 I’m currently learning **SQL, React, Java**
 - 💬 I am passionate about `UX/UI design`, **JavaScript, React, CSS, HTML**
 
