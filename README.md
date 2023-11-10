@@ -6,11 +6,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/chetachi/" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/linkedinblue.png" alt="linkedin" height="30px" style="max-width:100%;">
+    Linkedin
   </a> 
   &nbsp;
    <a href="https://twitter.com/chetachiiii" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/twitterblue.png" alt="blog" height="30px" style="max-width:100%;">
+      Twitter
   </a>
 </p>
 
