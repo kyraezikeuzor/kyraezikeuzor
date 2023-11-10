@@ -1,4 +1,4 @@
-# Hey! I'm Kyra, a student and developer!
+# Hey! I'm Kyra, a student and developer! 🌱
 
 <p>
   <a href="https://www.linkedin.com/in/kyraezikeuzor/" rel="nofollow">
