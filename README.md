@@ -1,4 +1,4 @@
-# Hi! I'm Kyra, a student and developer.!
+# Hey! I'm Kyra, a student and developer!
 
 ## About me
 🚀 Focus: building web apps. <br/>
