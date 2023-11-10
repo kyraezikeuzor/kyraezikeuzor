@@ -1,11 +1,11 @@
 # Hey! I'm Kyra, a student and developer!
 
 <p>
-  <a href="[https://www.linkedin.com/in/chetachi/](https://www.linkedin.com/in/kyraezikeuzor/)" rel="nofollow">
+  <a href="https://www.linkedin.com/in/kyraezikeuzor/" rel="nofollow">
     Linkedin
   </a> 
   &nbsp;
-   <a href="[https://twitter.com/chetachiiii](https://twitter.com/kyraoez)" rel="nofollow">
+   <a href="https://twitter.com/kyraoez" rel="nofollow">
       Twitter
   </a>
 </p>
