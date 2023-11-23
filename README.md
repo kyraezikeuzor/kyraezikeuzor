@@ -13,7 +13,7 @@
 ## About me
 - 🚀 Focus is on building web apps.
 - 📚 Interested in web and medicine.
-- 🌱 I’m currently learning **SQL, React, Java**
+- 🌱 I’m currently learning **SQL, TypeScript, Java**
 - 💬 I am passionate about `UX/UI design`, **JavaScript, React, CSS, HTML**
 
 <h4 align="left">These are the languages and tools I use in my projects:</h4>
