@@ -29,20 +29,20 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: top
-          plugin_music_playlist: https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl?si=M1IZ0zSzTBWMNQMtDZ81rw
-          plugin_music_provider: spotify
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: .user.login
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://www.kyraezikeuzor.com/#writing
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
